@@ -1,1 +1,1 @@
-transformer go brrr
+Attention is all you need
