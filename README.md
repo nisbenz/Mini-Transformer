@@ -210,6 +210,6 @@ translate_beam("How are you?", model, tokenizer, device)
 ├── tokenizer/              # Saved BPE tokenizer files
 │   ├── vocab.json
 │   └── merges.txt
-├── checkpoint_epoch_*.pth  # Training checkpoints
+├── model.pth 
 └── README.md               # This file
 ```
