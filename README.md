@@ -1,6 +1,6 @@
 #  English → Darija Transformer
 
-An **educational project** built from scratch to learn the Transformer architecture by implementing a lightweight English → Moroccan Darija translator, trained on ~16k sentence pairs.
+An **educational project** built from scratch to learn the Transformer architecture by implementing a lightweight English →  Darija translator, trained on ~16k sentence pairs.
 
 > This is not a production translation system — it's a hands-on learning exercise to deeply understand how attention, positional encoding, encoder-decoder stacks, and beam search work together.
 
